@@ -36,14 +36,14 @@ pip install -r requirements.txt
 
 
 ### Run model:
-
+~~~ bash
 python main.py
-
+~~~
 
 ### Run dashboard:
-
+~~~ bash
 streamlit run app.py
-
+~~~
 
 ---
 
