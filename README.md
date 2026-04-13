@@ -64,4 +64,5 @@ streamlit run app.py
 ---
 
 ## 👨‍💻 Author
-Student Project – AI + Cybersecurity
+Bujja Karthik
+
